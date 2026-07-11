@@ -5,3 +5,9 @@
 ## Day 2
 - DataTypes in Java
 - Program pushed
+
+## Day 3
+- Operators
+- Conditional Statement
+- Solved problems
+- Loops
