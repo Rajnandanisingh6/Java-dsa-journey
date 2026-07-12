@@ -11,3 +11,7 @@
 - Conditional Statement
 - Solved problems
 - Loops
+
+## Day 4
+- Loops Problems
+- Pattern 
