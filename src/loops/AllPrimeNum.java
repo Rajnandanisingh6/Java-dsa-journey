@@ -31,7 +31,7 @@ public class AllPrimeNum {
 				System.out.println(num);
 			}
 			
-		}
+		}          
 		
 
 	}
